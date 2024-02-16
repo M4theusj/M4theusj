@@ -9,9 +9,10 @@
 <div align="center"> 
 <h3 style=text-align:center;>Contatos</h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" />
 <a href="https://www.instagram.com/matheusjsdjj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
- </div>
-
 <h2 style=text-align:center;>Espero que goste!</h2> 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
+  
+</div>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483d8b&height=120&section=footer"/>
